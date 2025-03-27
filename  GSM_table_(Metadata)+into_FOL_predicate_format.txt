@@ -1,0 +1,32 @@
+has_title("GSM847777", "kidney 13 wks rep 1").
+has_geo_accession("GSM847777", "GSM847777").
+has_status("GSM847777", "Public on Jul 10 2013").
+has_submission_date("GSM847777", "Dec 12 2011").
+has_last_update_date("GSM847777", "Jul 10 2013").
+has_type("GSM847777", "RNA").
+has_channel_count("GSM847777", "1").
+has_source_name_ch1("GSM847777", "kidney 13 wks").
+has_organism_ch1("GSM847777", "Mus musculus").
+has_taxid_ch1("GSM847777", "10090").
+has_characteristics_ch1("GSM847777", "tissue: kidney").
+has_treatment_protocol_ch1("GSM847777", "None").
+has_growth_protocol_ch1("GSM847777", "Female C57BL6/J mice were marked and randomized at the day of birth in different groups; i.e. longevity cohorts (previously described in Wijnhoven et al. (2005; DNA Repair (Amst) 4: 1314-1324.), or cross-sectional cohorts in which the mice were sacrificed at fixed time points. Cross-sectional cohorts C57BL6/J mice were sacrificed at a fixed age of 13, 26, 52, 78, 104 and 130 weeks. During the entire experiment, animals were kept in the same stringently controlled pathogen free (spf) environment, fed ad libitum and kept under a normal day/night rhythm. The microbiological status of the cohorts was monitored every 3 months.").
+has_molecule_ch1("GSM847777", "total RNA").
+has_extract_protocol_ch1("GSM847777", "Total RNA was isolated from liver, kidney, spleen, lung and brain, using the RNeasy Midi Kit (Qiagen, Valencia, CA, USA;). RNA quality was tested using automated gel electrophoresis (Bioanalyzer 2100; Agilent technologies, Amstelveen, the Netherlands). Only RIN > 7 were processed further.").
+has_label_ch1("GSM847777", "biotin").
+has_label_protocol_ch1("GSM847777", "In short, biotin-labeled cRNA samples were prepared as described in the Affymetrix expression analysis technical manual (Affymetrix) using 3 μg of purified total RNA as template for the reaction. For this the One-Cycle cDNA Synthesis Kit (Affymetrix) was used.").
+has_hyb_protocol("GSM847777", "The labeled cDNA was hybridized to the Mouse GeneChip 430 2.0 (Affymetrix, Santa Clara, CA, USA). The GeneChip Hybridization, Wash and Stain Kit (Affymetrix, CA) was used for the hybridizations according to the protocol of the manufacturer.").
+has_scan_protocol("GSM847777", "GeneChips were scanned using the Affymetrix GCS3000 HR GeneChip Scanner and GCOS").
+has_data_processing("GSM847777", "The data were analyzed with the R statistical programming language (http://cran.r-project.org/) and the bioconductor affy package. The raw data were annotated according de Leeuw et al. (2008; BMC Res Notes. 19: 1-66 (hence the odd probeset identifiers)) and normalized using the robust multi-array average (RMA) algorithm (Irizarry et al., 2003; Biostatistics 4: 249-264). Please note that we corrected the data for labelling-batch effects in the paper.").
+has_platform_id("GSM847777", "GPL14996").
+has_contact_name("GSM847777", "Martijs,,Jonker").
+has_contact_email("GSM847777", "m.j.jonker@uva.nl").
+has_contact_department("GSM847777", "Microarray Department").
+has_contact_institute("GSM847777", "University of Amsterdam").
+has_contact_address("GSM847777", "Science Park 904").
+has_contact_city("GSM847777", "Amsterdam").
+has_contact_zip_postal_code("GSM847777", "1090 GE").
+has_contact_country("GSM847777", "Netherlands").
+has_supplementary_file("GSM847777", "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM847nnn/GSM847777/suppl/GSM847777_IOP_001.CEL.gz").
+has_series_id("GSM847777", "GSE34378").
+has_data_row_count("GSM847777", "35283").
